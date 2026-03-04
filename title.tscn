@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://b82w50m8c4nx4"]
+
+[node name="Title" type="Node2D" unique_id=757354219]
+
+[node name="Background" type="Sprite2D" parent="." unique_id=1452429351]
+
+[node name="TitleLabel" type="Label" parent="." unique_id=1948636361]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="StartButton" type="Button" parent="." unique_id=1537155999]
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="LoadButton" type="Button" parent="." unique_id=1191594988]
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="ExitButton" type="Button" parent="." unique_id=622278020]
+offset_right = 8.0
+offset_bottom = 8.0
